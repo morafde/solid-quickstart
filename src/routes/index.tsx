@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Title>Hello World</Title>
-      <h1>Site Under Construction, Please call 08033755957</h1>
+      <h1>Site Under Construction, we will be back shortly</h1>
       <Counter />
     </main>
   );
